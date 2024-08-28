@@ -40,9 +40,7 @@ profiles (e.g., low credit grades, high DTI, low income etc.).
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- Upgrad Live session
-- https://www.youtube.com/watch?v=BVmL3VQCmEM
-- https://youtu.be/fiQhxn9RjEQ?si=BCJXn_9PzShUvkNj 
+We would like to thanks our Professors at IIIT-B and Upgrad. Without them this case study will not be possible.
 
 
 
